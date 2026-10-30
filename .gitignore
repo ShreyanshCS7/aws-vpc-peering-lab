@@ -1,0 +1,14 @@
+# AWS private keys
+*.pem
+*.ppk
+
+# AWS credentials
+.aws/
+.env
+.env.*
+
+# macOS
+.DS_Store
+
+# Logs
+*.log
